@@ -1,5 +1,6 @@
+<center>
 ![rr](https://github.com/Aryan01b/Aryan01b/assets/63441095/2121e7e1-ebaf-41d6-b78e-22dfa633463d)
-
+</center>
 <h3 align="center">A Robotics Enthusiast</h3>
 <hr>
 <h3 align="left">Languages and Tools⚙️:</h3>
