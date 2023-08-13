@@ -1,4 +1,4 @@
-https://github.com/Aryan01b/Aryan01b/assets/63441095/411be5bd-b68f-486a-9d36-607a2af33008
+![rr](https://github.com/Aryan01b/Aryan01b/assets/63441095/2121e7e1-ebaf-41d6-b78e-22dfa633463d)
 
 <h3 align="center">A Robotics Enthusiast</h3>
 <hr>
