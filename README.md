@@ -1,5 +1,5 @@
 # Aryan Manoj Arlikar  
-### Robotics Enthusiast | Computer Vision Expert | Machine Learning Practitioner  
+### Robotics Enthusiast | UAV SE
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/aryan-manoj-arlikar/)  
 [![Email](https://img.shields.io/badge/Email-arlikararyan@gmail.com-D14836?style=flat&logo=gmail)](mailto:arlikararyan@gmail.com)  
