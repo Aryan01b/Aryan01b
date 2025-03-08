@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 About Me  
-I’m a Computer Engineering student passionate about **robotics**, **computer vision**, and **machine learning**. I thrive on designing innovative solutions, from autonomous robots to deep learning models, and enjoy bridging the gap between hardware and software. Currently exploring **ROS2** and **3D modeling** to push the boundaries of intelligent systems.
+I’m a Roboticist passionate about **robotics**, **computer vision**, and **machine learning**. I thrive on designing innovative solutions, from autonomous robots to deep learning models, and enjoy bridging the gap between hardware and software.
 
 ---
 
