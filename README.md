@@ -13,7 +13,6 @@ I’m a Roboticist passionate about **robotics**, **computer vision**, and **mac
 ---
 
 ## 📬 Contact Me  
-- **Phone**: +91 90112 56395  
 - **Email**: [arlikararyan@gmail.com](mailto:arlikararyan@gmail.com)  
 - **LinkedIn**: [Aryan Arlikar](https://www.linkedin.com/in/aryan-arlikar-5bb04621a/)  
 
