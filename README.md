@@ -4,10 +4,6 @@
 <div align="center">
   <video src="rr1.mp4" autoplay loop muted></video>
 </div>
-
-## 🚀 About Me
-I'm a passionate **Roboticist** with expertise in **Computer Vision**, **Machine Learning**, and **Autonomous Systems**. My work focuses on developing intelligent robotic solutions that bridge the gap between cutting-edge AI algorithms and real-world applications. I specialize in **Unmanned Aerial Vehicles (UAVs)**, **Robot Perception**, and **Autonomous Navigation**.
-
 ---
 
 ## 📊 GitHub Stats
