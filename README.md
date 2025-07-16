@@ -2,7 +2,7 @@
 ### Roboticist
 
 <div align="center">
-  <video src="rr1.mp4" width="600" autoplay loop muted></video>
+  <video src="rr1.mp4" autoplay loop muted></video>
 </div>
 
 ## 🚀 About Me
